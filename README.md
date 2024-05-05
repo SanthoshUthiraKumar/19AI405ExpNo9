@@ -21,7 +21,7 @@ It is assumed that there will always be a safe path that the agent can take to e
 </p>
 <h1> PROGRAM:</h1>
 
-**DEVELOPED BY : Santhosh U**
+<h3>DEVELOPED BY : Santhosh U<h3>
 <h3>REGISTER  NUMBER: 212222240092</h3>
 
 ```py
