@@ -24,6 +24,7 @@ It is assumed that there will always be a safe path that the agent can take to e
 DEVELOPED BY : Santhosh U
 REGISTER  NUMBER: 212222240092
 ```
+
 ```py
 wumpus=[["Save","Breeze","PIT","Breeze"],
         ["Smell","Save","Breeze","Save"],
